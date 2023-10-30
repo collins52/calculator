@@ -1,0 +1,18 @@
+body{
+    display: grid;
+}
+.firstTerm, .commonDifference, .nthTerm, .answer, #solve, h1{
+    padding: 20px;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    text-transform: capitalize;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-row-gap: 10px;
+}
+/* input::-webkit-scrollbar{
+    display: none;
+} */
